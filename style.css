@@ -1,0 +1,167 @@
+//*For some reason commenting in the css is breaking the site so for comments please refer to the .txt file inside the web folder*/
+b{
+	color:#000000;
+}
+a{
+text-decoration:blue;
+color:grey;
+}
+
+body{
+margin:0;
+background-image:url("back.jpg");
+width:100%;
+height:100%;
+color:white;
+}
+img{
+display:block;
+margin:0%;
+}
+
+#main{
+	width:auto;
+	margin:0%;
+	background:#A66BB0;
+}
+#logo{
+	width:100%;
+	height;auto;
+}
+#wrapper{
+	margin-left:8%;
+	margin-right:8%;
+	width:auto;
+	height:2000px;
+}
+#titlebreak{
+	height: 106px;
+	width: 100%;
+	float:left;
+}
+#body{
+	width:100%;
+	height:auto;
+}
+#sparta{
+	width:100%;
+	height:50%;
+	float:left;
+	margin-top:2%;
+	margin-bottom:2%;
+	margin-right:;
+	margin-left:;
+	-webkit-transform:skew(-8deg);
+	-moz-transform:skew(-8deg);
+	-o-transform:skew(-8deg);
+	color:#FFDA6F;
+	font-size:20px;
+}
+#spartainfo1{
+	width:98%;
+	height:33%;
+	background-color:white;
+	margin-right:1.5%;
+	margin-bottom:2%;
+	margin-left:1.5%;
+	margin-top:2%;
+	background-color:#611416;
+}
+#spartainfo2{
+	width:98%;
+	height:33%;
+	background-color:white;
+	margin-right:1%;
+	margin-bottom:2%;
+	margin-left:1%;
+	margin-top:2%;
+	background-color:#611416;	
+}
+#spartainfo3{
+	width:98%;
+	height:33%;
+	background-color:white;
+	margin-right:0.5%;
+	margin-bottom:2%;
+	margin-left:0.5%;
+	margin-top:2%;
+	background-color:#611416;
+}
+#athens{
+	width:100%;
+	height:50%;
+	float:left;
+	margin-top:8%;
+	margin-bottom:2%;
+	margin-right:;
+	margin-left:;
+	-webkit-transform:skew(8deg);
+	-moz-transform:skew(8deg);
+	-o-transform:skew(8deg);
+	color:white;
+	font-size:20px;
+}
+#athensinfo1{
+	width:98%;
+	height:33%;
+	background-color:white;
+	margin-right:1.5%;
+	margin-bottom:2%;
+	margin-left:1.5%;
+	margin-top:2%;
+	background-color:#0093A7;
+}
+#athensinfo2{
+	width:98%;
+	height:33%;
+	background-color:white;
+	margin-right:1%;
+	margin-bottom:2%;
+	margin-left:1%;
+	margin-top:2%;
+	background-color:#0093A7;
+}
+#athensinfo3{
+	width:98%;
+	height:33%;
+	background-color:white;
+	margin-right:0.5%;
+	margin-bottom:2%;
+	margin-left:0.5%;
+	margin-top:2%;
+	background-color:#0093A7;
+}
+#quiz{
+	width:50%;
+	height:50%;
+	background-color:grey;
+	float:left;
+	margin-top:6%;
+	margin-bottom:3%;
+	color:#0F300F;
+	text-align:center;
+	margin-left:25%;
+	font-size:15px;
+}
+input[type='submit']{
+	background:#0F300F;
+	border:0;
+	color:#fff;
+	padding:10px 15px;
+	cursor:pointer;
+}
+#results h3{
+	background:#0F300F;
+	padding:10px;
+	margin:10px 0;
+}
+#results span{
+	color:#fff;
+	font-weight:bold;
+}
+#learn{
+	color:#0F300F;
+	font-size:20px;
+	font-weight:bold;
+	border-bottom:#0F300F solid 2px;
+}
